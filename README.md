@@ -69,6 +69,10 @@ This project's sole purpose is to demonstrate how to use Trigger.dev with an Exp
 
 MIT
 
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
+
 ## Author
 
 (c) Liran Tal <liran@lirantal.com>
