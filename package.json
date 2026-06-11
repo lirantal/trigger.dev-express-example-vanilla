@@ -1,8 +1,4 @@
 {
-  "publishConfig": {
-    "provenance": true,
-    "access": "public"
-  },
   "name": "trigger.dev-express-example-vanilla",
   "version": "1.0.0",
   "description": "Example Express application for trigger.dev",
@@ -40,5 +36,9 @@
   },
   "trigger.dev": {
     "endpointId": "trigger-express-example-vanilla"
+  },
+  "publishConfig": {
+    "provenance": true,
+    "access": "public"
   }
 }
